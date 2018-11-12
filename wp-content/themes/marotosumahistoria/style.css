@@ -1,0 +1,16 @@
+/*
+Theme Name: Marotos: Uma História
+Theme URI: https://github.com/kayallapontes/MarotosUmaHistoria
+Author: Kayalla Pontes
+Author URI: https://github.com/kayallapontes/
+Description: Site da WebSerie Marotos: Uma História.
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	background: url(assets/images/footprints-1.png) no-repeat 2.5% -50%/10%, 
+				#fbe7c6;
+}
